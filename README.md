@@ -1,5 +1,5 @@
 🛒 Walmart Sales Data Analysis Project
-📌 Project Overview
+ Project Overview
 
 This project focuses on performing end-to-end data analysis on Walmart sales data using PostgreSQL. The goal of the project is to clean raw transactional data and extract meaningful business insights related to products, sales performance, and customer behavior. The results can support data-driven decision making in retail operations.
 
